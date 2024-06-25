@@ -301,13 +301,12 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .offer {
-        padding-top: 25px;
-        padding-bottom: 25px;
+        padding: 20px;
 
     }
 
     .offer__content {
-        max-width: 360px;
+        max-width: 375px;
     }
 
     .offer__title {
