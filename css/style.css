@@ -279,8 +279,6 @@ h1, h2, h3, h4, h5, h6 {
 @media screen and (min-width: 375px) {
 
     .center {
-        padding-left: calc(50vw - 160px);
-        padding-right: calc(50vw - 160px);
         max-width: 375px;
     }
 
@@ -337,19 +335,19 @@ h1, h2, h3, h4, h5, h6 {
 
     .project {
         padding: 20px;
+        gap: 40px;
         max-width: 375px;
+        display: flex;
+        flex-wrap: wrap;
 
+        justify-content: space-around;
     }
 
     .project__blok {
         padding-left: 5px;
+
     }
 
-    .project__article {
-        display: flex;
-        /*justify-content: space-around;*/
-        /*align-items: flex-start;*/
-    }
 
     .project__picture {
         max-width: 25px;
@@ -370,6 +368,11 @@ h1, h2, h3, h4, h5, h6 {
     .process__title {
         font-size: 20px;
         margin-bottom: 20px;
+    }
+
+
+    .video {
+        max-width: 375px;
     }
 
     .video__picture {
