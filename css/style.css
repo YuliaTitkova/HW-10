@@ -339,13 +339,12 @@ h1, h2, h3, h4, h5, h6 {
         max-width: 375px;
         display: flex;
         flex-wrap: wrap;
-
         justify-content: space-around;
+
     }
 
     .project__blok {
         padding-left: 5px;
-
     }
 
 
