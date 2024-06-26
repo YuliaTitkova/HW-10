@@ -772,7 +772,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-@media screen and (min-width: 414px) {
+@media screen and (min-width: 450px) {
 
     .center {
         max-width: 414px;
@@ -950,7 +950,6 @@ h1, h2, h3, h4, h5, h6 {
     .about__title {
         font-size: 26px;
         margin-bottom: 20px;
-        line-height: 1.30;
     }
 
 
@@ -998,6 +997,130 @@ h1, h2, h3, h4, h5, h6 {
 
     .video__picture {
         max-width: 430px;
+    }
+
+    .video__button {
+        max-width: 60px;
+    }
+
+    .footer {
+        padding: 20px;
+        margin-top: 50px;
+    }
+
+    .footer__name {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .footer__copyright {
+        font-size: 14px;
+    }
+}
+
+
+@media screen and (min-width: 540px) {
+
+    .center {
+        max-width: 540px;
+    }
+
+    body {
+        font-size: 12px;
+    }
+
+    .header {
+        padding: 20px;
+        max-width: 540px;
+    }
+
+
+    .nav__list {
+        gap: 10px;
+        padding: 10px;
+        justify-content: space-between;
+    }
+
+    .offer {
+        padding: 20px;
+
+    }
+
+    .offer__content {
+        max-width: 540px;
+    }
+
+    .offer__title {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+
+    .offer__desc {
+        margin-bottom: 20px;
+    }
+
+    .btn {
+        min-height: 30px;
+        padding: 15px;
+        min-width: 200px;
+    }
+
+
+    .about {
+        padding: 20px;
+    }
+
+    .about__title {
+        font-size: 26px;
+        margin-bottom: 20px;
+
+    }
+
+
+    .project {
+        padding: 20px;
+        gap: 40px;
+        max-width: 540px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+
+    }
+
+    .project__blok {
+        padding-left: 5px;
+    }
+
+
+    .project__picture {
+        max-width: 30px;
+    }
+
+    .project__title {
+        font-size: 13px;
+    }
+
+    .project__desc {
+        font-size: 11px;
+    }
+
+    .process {
+        padding: 20px;
+    }
+
+    .process__title {
+        font-size: 26px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+
+    .video {
+        max-width: 540px;
+    }
+
+    .video__picture {
+        max-width: 540px;
     }
 
     .video__button {
