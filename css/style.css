@@ -283,8 +283,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .center {
         max-width: 360px;
-        margin-left: auto;
         margin-right: auto;
+        margin-left: auto;
     }
 
     body {
@@ -294,6 +294,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 360px;
+        width: 100%;
     }
 
 
@@ -394,6 +395,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 40px;
+        width: 100%;
     }
 
     .footer__name {
@@ -411,8 +413,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .center {
         max-width: 375px;
-        margin-left: auto;
         margin-right: auto;
+        margin-left: auto;
     }
 
     body {
@@ -422,6 +424,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 375px;
+        width: 100%;
     }
 
 
@@ -522,6 +525,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -550,6 +554,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 390px;
+        width: 100%;
     }
 
 
@@ -651,6 +656,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -668,8 +674,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .center {
         max-width: 412px;
-        margin-left: auto;
         margin-right: auto;
+        margin-left: auto;
     }
 
     body {
@@ -679,6 +685,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 412px;
+        width: 100%;
     }
 
 
@@ -779,6 +786,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -807,6 +815,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 414px;
+        width: 100%;
     }
 
 
@@ -908,6 +917,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -925,8 +935,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .center {
         max-width: 430px;
-        margin-left: auto;
         margin-right: auto;
+        margin-left: auto;
     }
 
     body {
@@ -936,6 +946,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 430px;
+        width: 100%;
     }
 
 
@@ -1036,6 +1047,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1064,6 +1076,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 20px;
         max-width: 540px;
+        width: 100%;
     }
 
 
@@ -1165,6 +1178,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 20px;
         margin-top: 50px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1182,8 +1196,8 @@ h1, h2, h3, h4, h5, h6 {
 
     .center {
         max-width: 768px;
-        margin-left: auto;
         margin-right: auto;
+        margin-left: auto;
     }
 
     body {
@@ -1193,6 +1207,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 40px;
         max-width: 768px;
+        width: 100%;
     }
 
 
@@ -1292,6 +1307,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1320,6 +1336,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 40px;
         max-width: 820px;
+        width: 100%;
     }
 
 
@@ -1419,6 +1436,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1447,6 +1465,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 40px;
         max-width: 853px;
+        width: 100%;
     }
 
 
@@ -1546,6 +1565,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1574,6 +1594,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 40px;
         max-width: 912px;
+        width: 100%;
     }
 
 
@@ -1670,6 +1691,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1698,6 +1720,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 40px;
         max-width: 1024px;
+        width: 100%;
     }
 
 
@@ -1794,6 +1817,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1822,6 +1846,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 60px;
         max-width: 1280px;
+        width: 100%;
     }
 
 
@@ -1920,6 +1945,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 60px 40px;
         margin-top: 80px;
+        width: 100%;
     }
 
     .footer__name {
@@ -1948,6 +1974,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 60px;
         max-width: 1600px;
+        width: 100%;
     }
 
 
@@ -2046,6 +2073,7 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 60px 60px;
         margin-top: 100px;
+        width: 100%;
     }
 
     .footer__name {
@@ -2074,6 +2102,7 @@ h1, h2, h3, h4, h5, h6 {
     .header {
         padding: 80px;
         max-width: 1920px;
+        width: 100%;
     }
 
 
@@ -2174,6 +2203,8 @@ h1, h2, h3, h4, h5, h6 {
     .footer {
         padding: 60px 80px;
         margin-top: 100px;
+        max-width: 1920px;
+        width: 100%;
     }
 
     .footer__name {
